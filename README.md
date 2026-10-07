@@ -10,20 +10,16 @@ Submission for the **Happiest Health Digital Twin Challenge**: proof of concept.
 
 ## 1. Team details
 
-| Role | Name | GitHub | Email |
-|---|---|---|---|
-| Team lead | [Name] | [@handle] | [email] |
-| Member | [Name] | [@handle] | [email] |
-| Member | [Name] | [@handle] | [email] |
+**Team name:** Nexon
 
-**Team name:** [Team name]
+| Role | Name | GitHub |
+|---|---|---|
+| Team lead & sole member | Anushree Kasturi | [@AnushreeKasturi](https://github.com/AnushreeKasturi) |
 
 ## 2. College / Incubator information
 
-- **Institution:** [College / Incubator name]
-- **Department / Program:** [e.g. B.Tech Computer Science & Engineering]
-- **City, State:** [City, State]
-- **Faculty mentor (if any):** [Name, designation]
+- **Institution:** Amrita Vishwa Vidyapeetham, Bengaluru Campus
+- **City, State:** Bengaluru, Karnataka, India
 
 ## 3. Project title
 
