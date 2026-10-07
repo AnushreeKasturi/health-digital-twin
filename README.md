@@ -4,6 +4,10 @@
 
 Submission for the **Happiest Health Digital Twin Challenge**: proof of concept.
 
+### 🌐 Live demo: **[https://vitaltwin.streamlit.app/](https://vitaltwin.streamlit.app/)**
+
+Try the app in your browser; no installation or sign-in needed. The first load after a quiet period can take about a minute while the app wakes up and trains its models.
+
 ![VitalTwin dashboard](docs/screenshots/twin_state.png)
 
 ---
@@ -102,6 +106,10 @@ health-digital-twin/
     └── screenshots/
 ```
 
+### Use it online
+
+Open **[vitaltwin.streamlit.app](https://vitaltwin.streamlit.app/)**. It is hosted on Streamlit Community Cloud.
+
 ### Run it locally
 
 ```bash
@@ -180,4 +188,4 @@ The deck covers the problem, use case, solution, architecture, AI/ML details, a 
 
 ## 14. Accessibility of files and links
 
-All code, documents and screenshots are in this public repository, and none need sign-in. The demo video is an **unlisted** (not private) YouTube video, so anyone with the link can watch it.
+All code, documents and screenshots are in this public repository, and none need sign-in. The live app at https://vitaltwin.streamlit.app/ is public too. The demo video is an **unlisted** (not private) YouTube video, so anyone with the link can watch it.

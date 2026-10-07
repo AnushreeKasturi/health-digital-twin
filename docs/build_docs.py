@@ -220,7 +220,7 @@ def build_presentation(team: dict):
     text(s, 0.8, 1.6, 11.5, 0.5, "HAPPIEST HEALTH · DIGITAL TWIN CHALLENGE", 14, True, BLUE)
     text(s, 0.8, 2.1, 11.5, 1.2, "VitalTwin", 60, True, INK)
     text(s, 0.8, 3.3, 11.5, 0.8, "A personal digital twin for chronic-disease patients that monitors, predicts and simulates", 22, False, INK2)
-    text(s, 0.8, 4.7, 11.5, 1.6, [f"Team: {team['team']}", f"Members: {team['members']}", f"Institution: {team['college']}"], 16, False, INK)
+    text(s, 0.8, 4.7, 11.5, 1.6, [f"Team: {team['team']}", f"Members: {team['members']}", f"Institution: {team['college']}", "", f"Live demo: {team['live']}"], 16, False, INK)
 
     # 2. Problem
     s = slide("The problem: chronic disease is managed in snapshots", "Problem statement")
@@ -334,7 +334,7 @@ def build_presentation(team: dict):
 
     # 13. Thanks
     s = slide("Thank you", "VitalTwin")
-    text(s, 0.6, 1.8, 12, 2.5, [f"Team: {team['team']}", f"Members: {team['members']}", f"Institution: {team['college']}", "", f"Code: {team['repo']}", f"Demo video: {team['video']}"], 18, False, INK)
+    text(s, 0.6, 1.8, 12, 2.5, [f"Team: {team['team']}", f"Members: {team['members']}", f"Institution: {team['college']}", "", f"Live demo: {team['live']}", f"Code: {team['repo']}", f"Demo video: {team['video']}"], 18, False, INK)
     text(s, 0.6, 5.6, 12, 0.6, "Research prototype on synthetic data. Not intended for diagnosis or treatment decisions.", 12, False, MUTED)
 
     out = DOCS / "VitalTwin_Presentation.pptx"

@@ -3,5 +3,6 @@
   "members": "Anushree Kasturi",
   "college": "Amrita Vishwa Vidyapeetham, Bengaluru",
   "repo": "https://github.com/AnushreeKasturi/health-digital-twin",
-  "video": "[Unlisted YouTube link]"
+  "video": "[Unlisted YouTube link]",
+  "live": "https://vitaltwin.streamlit.app/"
 }
